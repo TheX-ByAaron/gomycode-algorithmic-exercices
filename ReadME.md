@@ -7,7 +7,7 @@
 <hr>
 
 # Exercise 1 🦋
-```json
+```
 - Given a string that contains vowels, create an algorithm that counts the number of vowels in a string.
 - The vowels are : A, E, I, O, U, Y
 - An example of what the algorithm should do :
@@ -18,7 +18,7 @@
 <br>
 
 # Exercise 2 🦋
-```json
+```
 - Given a string with multiple words. a word is separated by a space.
 - Create an algorithm that counts the number of words in a sentence.
 - An example of what an algorithm should do : 
@@ -30,8 +30,9 @@
 <br>
 
 # Exercise 3 🦋
-```json 
-- Given a string, Create an algorithm that takes a string and two characters at the begining, and then replaces the first character with the second inside the string.
+```
+- Given a string, Create an algorithm that takes a string and two characters at the begining, and 
+then replaces the first character with the second inside the string.
 - An example of what the algorithm should do :
 
     Input : "Hpllo mikpy" , "p" , "e"
@@ -41,8 +42,9 @@
 <br>
 
 # Exercise 4 🦋
-```json 
-- Imagine that you can't use simple multiplication "*" in algorithms. Create an algorithm that does the multiplication of two numbers using the addition instead.
+```
+- Imagine that you can't use simple multiplication "*" in algorithms. Create an algorithm that does the 
+multiplication of two numbers using the addition instead.
 - An example of what the algorithm should do :
     
     Input : 5, 6
@@ -52,9 +54,10 @@
 <br>
 
 # Exercise 5 🦋
-```json 
+```
 - Create an algorithm that takes a number and calculates its power with a second input number.
-- A power is the number of successive multiplications of a number. For example '2  power 3' means '2*2*2' which gives us '8'.
+- A power is the number of successive multiplications of a number. For example '2  power 3' means 
+'2*2*2' which gives us '8'.
 - An example of what the algorithm should do :
 
     Input : 3, 4
@@ -65,68 +68,68 @@
 
 # Exercise 6 🤖
 ```
-
+coming soon
 ```
 
 <br>
 
 # Exercise 7 🤖
 ```
-
+coming soon
 ```
 
 <br>
 
 # Exercise 8 🤖
 ```
-
+coming soon
 ```
 
 <br>
 
 # Exercise 9 🤖
 ```
-
+coming soon
 ```
 
 <br>
 
 # Exercise 10 🤖
 ```
-
+coming soon
 ```
 
 <br>
 
 # Exercise 11 👾
 ```
-
+coming soon
 ```
 
 <br>
 
 # Exercise 12 👾
 ```
-
+coming soon
 ```
 
 <br>
 
 # Exercise 13 👾
 ```
-
+coming soon
 ```
 
 <br>
 
 # Exercise 14 👾
 ```
-
+coming soon
 ```
 
 <br>
 
 # Exercise 15 👾
 ```
-
+coming soon
 ```
